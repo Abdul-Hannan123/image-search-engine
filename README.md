@@ -22,3 +22,17 @@ Users can enter a search term and the application fetches relevant images from a
 - CSS3
 - JavaScript
 - REST API
+
+## ⚙️ How It Works
+
+The application uses JavaScript's fetch() method to send a request to an external image API.
+
+When a user enters a search term, JavaScript:
+
+- Gets the search query from the input field.
+- Sends a request to the image API.
+- Receives the API response in JSON format.
+- Extracts the image data.
+- Dynamically creates image elements.
+- Displays the results in the gallery.
+  

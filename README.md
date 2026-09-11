@@ -36,3 +36,36 @@ When a user enters a search term, JavaScript:
 - Dynamically creates image elements.
 - Displays the results in the gallery.
   
+## 🎯 Purpose
+
+This project was created to practice:
+
+- Working with APIs
+- JavaScript Fetch API
+- Handling JSON data
+- DOM manipulation
+- Dynamic HTML generation
+- Event handling
+- Responsive CSS layouts
+- Building interactive web applications
+
+  ## 📸 Preview
+  
+  <img width="959" height="434" alt="result" src="https://github.com/user-attachments/assets/143c418a-964c-4713-bd43-da44024a4472" />
+
+## 🌱 Future Improvements
+
+- Add pagination
+- Add "Load More" functionality
+- Add image download option
+- Add image preview/lightbox
+- Add search history
+- Add loading animation
+- Add error handling for failed API requests
+- Add filters for image orientation and size
+
+## 👨‍💻 Author
+
+Abdul Hannan Zahid
+
+Frontend Developer | BSCS Student
